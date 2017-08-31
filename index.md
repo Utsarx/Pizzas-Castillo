@@ -6,3 +6,19 @@
 * Ramírez Gibbs Jorge Alberto
 * Rangel Bautista Luis Gerardo
 * Reyes Jiménez Evelyn Gabriela
+
+## Resumen
+
+## Introducción
+
+## Objetivo
+
+## Justificación
+
+## Producto
+
+## Metodología
+
+## Cronograma
+
+## Referencias
