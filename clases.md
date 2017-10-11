@@ -1,38 +1,57 @@
-| Paquete       |               |   
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+|              Paquete        |               |   
+| --------------------------- |:-------------:|
+| Agregar productos           |  |
+| Quitar productos            |  |
+| Ingresar precio             |  |
+| Ingresar nombre del paquete |  |
 
-| Usuario       |               | 
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+|      Usuario       |               | 
+| ------------------ |:-------------:|
+| Ingresar datos |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+|      Cliente       |               | 
+| ------------------ |:-------------:|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+|      Administrador      |               | 
+| ----------------------- |:-------------:|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 | Pizza         |               | 
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+|  |  |
+|  |  |
+|  |  |
 
 | Pago          |               | 
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+|  |  |
+|  |  |
+|  |  |
 
 | Carrito       |               | 
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+|  |  |
+|  |  |
+|  |  |
 
 | Orden         |               | 
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+|  |  |
+|  |  |
+|  |  |
 
 | Producto      |               | 
 | ------------- |:-------------:|
