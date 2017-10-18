@@ -20,6 +20,7 @@
 | Generar Orden| Paquete       |
 | Realizar Compra|  |
 | Pagar Orden|  |
+| Ingresar Datos  |  |
 
 |      Administrador      |               | 
 | ----------------------- |:-------------:|
@@ -64,3 +65,8 @@
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
+
+| Ingrediente   |               | 
+| ------------- |:-------------:|
+| En existencia | Precio |
+| No caduco | Pizza |
