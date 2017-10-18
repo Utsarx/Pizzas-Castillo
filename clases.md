@@ -13,13 +13,13 @@
 |  |  |
 |  |  |
 
-|      Cliente       |               | 
-| ------------------ |:-------------:|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|      Cliente        |               | 
+| ------------------  |:-------------:|
+| Configurar Pizza| Repartidor    |
+| Seleccionar Paquete| Pizza         |
+| Generar Orden| Paquete       |
+| Realizar Compra|  |
+| Pagar Orden|  |
 
 |      Administrador      |               | 
 | ----------------------- |:-------------:|
