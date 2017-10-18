@@ -7,7 +7,7 @@
 
 |      Usuario       |               | 
 | ------------------ |:-------------:|
-| Ingresar datos |  |
+| Ingresar datos | Cliente |
 |  |  |
 |  |  |
 |  |  |
