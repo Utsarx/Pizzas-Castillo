@@ -50,9 +50,9 @@
 
 | Orden         |               | 
 | ------------- |:-------------:|
-|  |  |
-|  |  |
-|  |  |
+| Almacenar pizzas generadas | Pizza |
+| Almacenar paquetes generados | Paquete |
+| Generar Precio Final | Repartidor |
 
 | Producto      |               | 
 | ------------- |:-------------:|
@@ -60,13 +60,13 @@
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
-| Cuenta        |               | 
+| Cuenta de usuario|               | 
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Almacenar Datos | Administrador |
+|       |  Cliente   |
+|  |      |
 
 | Ingrediente   |               | 
 | ------------- |:-------------:|
-| En existencia | Precio |
-| No caduco | Pizza |
+| En existencia | Pizza |
+| No caduco |  |
