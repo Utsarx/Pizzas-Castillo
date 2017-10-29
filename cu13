@@ -23,8 +23,16 @@ Los paquetes armados por el administrador deberán de ser mostrados en los paque
 
 #### Curso de acción básico: 
 
-1.-
+1.-El caso de uso comienza cuando el administrador de la pizzería quiere crear un paquete.
 
-2.-Si el usuario aún no ha agregado una pizza a su carrito, el sistema presentará un mensaje indicándole que debe hacerlo antes de finalizar su compra.
+2.-El administrador selecciona armar un paquete en la pantalla IU# Dashboard
 
-3.-El caso de uso finaliza hasta que el usuario agregue una pizza a su carrito y presione el botón para finalizar la compra.
+3.-El sistema solicita  el nombre que se le quiera dar al paquete y el precio.
+
+4.-El administrador ingresa los datos solicitados.
+
+5.-El administrador selecciona al menos una pizza del catálogo , o arma una pizza con los ingredientes que desea.
+
+6.- El administrador elige los complementos que quiera incluir en el paquete, mínimo deberá incluir un complemento.
+
+7.- El caso de uso termina cuando el administrador selecciona la opción crear paquete en la IU# CrearPaquete.
