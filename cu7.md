@@ -1,27 +1,27 @@
-####Nombre:
+#### Nombre:
 
 Excepción al finalizar la compra.
 
-####Identificador:
+#### Identificador:
 
 CU7
 
-####Descripición: 
+#### Descripición: 
 
 El sistema no dejará finalizar su compra al usuario si no hay en su carrito por lo menos una pizza.
 
-####Precondiciones:
+#### Precondiciones:
 
 Se debió de haber escogido una forma de pago.
 El usuario debe de tener al menos una pizza en su carrito.
 
 
-####Postcondiciones: 
+#### Postcondiciones: 
 
 Ninguna
 
 
-####Curso de acción básico: 
+#### Curso de acción básico: 
 
 1.-El caso de uso comienza antes de finalizar la compra.
 
