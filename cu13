@@ -1,0 +1,30 @@
+El sistema permitirá al administrador de la pizzería armar paquetes con pizzas y 
+complementos predefinidos a un precio especial. El paquete deberá contener al menos 2 productos.
+#### Nombre:
+
+Armado de paquetes.
+
+#### Identificador:
+
+CU13.
+
+#### Descripición: 
+
+El sistema peritirá a un administrador armar un paquete con pizzas y complementos a un precio especial para los usuarios.
+
+#### Precondiciones:
+
+Un administrador debe de haber ingresado al sistema.
+
+
+#### Postcondiciones: 
+
+Los paquetes armados por el administrador deberán de ser mostrados en los paquetes que se ofrecen a los usuarios. 
+
+#### Curso de acción básico: 
+
+1.-
+
+2.-Si el usuario aún no ha agregado una pizza a su carrito, el sistema presentará un mensaje indicándole que debe hacerlo antes de finalizar su compra.
+
+3.-El caso de uso finaliza hasta que el usuario agregue una pizza a su carrito y presione el botón para finalizar la compra.
