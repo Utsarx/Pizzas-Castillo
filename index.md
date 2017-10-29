@@ -2,6 +2,7 @@
 
 ### Enunciado del problema
 La forma actual de hacer pedidos de pizza a domicilio puede llegar a ser compleja, tardada e ineficiente al necesitar de un empleado que conteste llamadas, recite el menú, diga los precios y tome los pedidos, además puede que varios clientes quieran ordenar al mismo tiempo pero no es posible si en ese momento se cuenta con una sola línea telefónica disponible; esto hace que realizar un pedido sea tardado y puede llegar a incomodar al cliente, por lo tanto tendrá una experiencia desagradable. Una solución de éxito sería hacer el menú y las promociones más accesibles al cliente además de automatizar el proceso de pedido prescindiendo del factor humano a la hora de tomar una orden.
+
 ### Perspectiva del producto
 El sistema está pensado para que personas mayores de edad puedan hacer un pedido sin necesidad de hacer una llamada telefónica. 
 No cuenta con interfaces para interactuar con otros sistemas pero estará diseñada para ser extensible de manera que sea sencillo agregar nuevos módulos.
@@ -10,10 +11,12 @@ Se usará el mouse o touch de teléfono celular para navegar a través de las pa
 
 ### Funciones del producto
 El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador web. El cliente podrá agregar pizzas a su orden, escoger los ingredientes de su pizza, seleccionar un paquete ya predefinido, seleccionar su método de pago, crear un perfil donde almacenará su información de contacto y finalmente ordenar su pizza. El administrador de la pizzeria podrá ver las ordenes realizadas, agregar paquetes y promociones así como ingredientes para la pizza. 
+
 ## Objetivos del proyecto
 * Automatizar el proceso de pedido de pizzas para una pizzería.
 * Incrementar el número de pedidos que una pizzería puede recibir.
 * Darle mayor difusión al menú de la pizzería.
+
 ## Definición de StakeHolders
 
 ### Equipo de desarrollo
