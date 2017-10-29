@@ -1,6 +1,6 @@
 ## Requisitos
 
-1.	Al registrarse el usuario deberá proporcionar los siguientes datos: correo electrónico, contraseña, nombre, apellidos, teléfono.
+1.	Al registrarse el usuario deberá proporcionar los siguientes datos: correo electrónico, contraseña, nombre, apellidos, teléfono, direcciones.
 2.	Se podrá comprar una pizza sin necesidad de estar registrado.
 3.	El usuario podrá elegir alguna de las siguientes formas de pago: efectivo y tarjeta (terminal). 
 4.	Todas las pizzas deberán tener al menos un ingrediente para ser agregadas al carrito.
