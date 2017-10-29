@@ -1,7 +1,7 @@
 ## Descripción del proyecto
 
 ### Enunciado del problema
-La forma actual de hacer pedidos de pizza a domicilio puede llegar a ser compleja, tardada e ineficiente al necesitar de un empleado que conteste llamadas, recite el menú, diga los precios y tome los pedidos, además puede que varios clientes quieran ordenar al mismo tiempo pero no es posible si en ese momento se cuenta con una sola línea telefónica disponible; esto hace que realizar un pedido sea tardado y puede llegar a incomodar al cliente, por lo tanto tendrá una experiencia desagradable. Una solución de éxito sería automatizar el proceso de pedido prescindiendo de las personas que contestan el teléfono y toman la orden.
+La forma actual de hacer pedidos de pizza a domicilio puede llegar a ser compleja, tardada e ineficiente al necesitar de un empleado que conteste llamadas, recite el menú, diga los precios y tome los pedidos, además puede que varios clientes quieran ordenar al mismo tiempo pero no es posible si en ese momento se cuenta con una sola línea telefónica disponible; esto hace que realizar un pedido sea tardado y puede llegar a incomodar al cliente, por lo tanto tendrá una experiencia desagradable. Una solución de éxito sería hacer el menú y las promociones más accesibles al cliente además de automatizar el proceso de pedido prescindiendo de las personas que contestan el teléfono y toman la orden.
 ### Perspectiva del producto
 El sistema está pensado para que personas mayores de edad puedan hacer un pedido sin necesidad de hacer una llamada telefónica. 
 No cuenta con interfaces para interactuar con otros sistemas pero estará diseñada para ser extensible de manera que sea sencillo agregar nuevos módulos.
