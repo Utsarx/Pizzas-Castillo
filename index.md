@@ -38,3 +38,33 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 ## Modelo de casos de uso
 
 ### Definición de actores
+
+### Especificación en texto de Casos de Uso
+
+### Diagrama de Contexto del Sistema usando un diagrama General de Casos de Uso
+
+### Diagramas de casos de uso
+
+### Diagramas de actividades
+
+## Modelo de Dominio
+
+### Diagrama de clases
+
+## Marco de Desarrollo
+
+### Descripción de las etapas de desarrollo
+
+### Número y duración de iteraciones
+
+### Hitos y artefactos del proyecto
+
+### Herramientas de software empleadas
+
+## Avance en el producto de SW
+
+### Código
+
+### Prototipos
+
+### Pruebas
