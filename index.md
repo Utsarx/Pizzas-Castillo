@@ -32,6 +32,15 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 
 ## Reglas del negocio
 
+[Horario de pedido](./br1.md)
+
+[Distancia máxima del pedido](./br2.md)
+
+[División de pizza](./br3.md)
+
+[Pedido mínimo](./br4.md)
+
+
 ## Documento de especificación de requerimientos
 
 ### Requerimientos funcionales
