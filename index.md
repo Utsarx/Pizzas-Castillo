@@ -27,9 +27,9 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 * Reyes Jiménez Evelyn Gabriela - Arquitecto de software - Tester
 
 ### Cliente
-
+* Tomamos en cuenta como cliente a todo individuo que se beneficie de nuestros servicios prestados o adquiera productos de esta a través de los diferentes mecanismos de intercambio de pagos y bienes disponibles en la sociedad. Siendo partícipes las personas que ya han tenido alguna experiencia con nuestos productos. 
 ### Usuarios
-
+* Los usuarios serán aquellos quienes crearon o  diseñaron tanto los productos como los servicios que podamos ofrecer y de ello extraer un beneficio funcional; a la vez tomando en cuenta las personas que solamente interactuen con nuestro producto o servicio. 
 ## Reglas del negocio
 
 [Horario de pedido](./br1.md)
