@@ -43,11 +43,7 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 
 ## Documento de especificación de requerimientos
 
-### Requerimientos funcionales
-
-### Requerimientos no funcionales
-
-### Restricciones
+[Requisitos](./requisitos.md)
 
 ## Modelo de casos de uso
 
