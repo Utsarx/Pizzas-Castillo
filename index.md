@@ -50,6 +50,31 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 ### Definición de actores
 
 ### Especificación en texto de Casos de Uso
+[Caso de Uso No. 1](./cu1.md)
+
+[Caso de Uso No. 3](./cu3.md)
+
+[Caso de Uso No. 4](./cu4.md)
+
+[Caso de Uso No. 5](./cu5.md)
+
+[Caso de Uso No. 6](./cu6.md)
+
+[Caso de Uso No. 7](./cu7.md)
+
+[Caso de Uso No. 8](./cu8.md)
+
+[Caso de Uso No. 10](./cu10.md)
+
+[Caso de Uso No. 11](./cu11.md)
+
+[Caso de Uso No. 11](./cu12.md)
+
+[Caso de Uso No. 13](./cu13.md)
+
+[Caso de Uso No. 14](./cu14.md)
+
+[Caso de Uso No. 15](./cu15.md)
 
 ### Diagrama de Contexto del Sistema usando un diagrama General de Casos de Uso
 
