@@ -1,5 +1,3 @@
-(Aquí va el título del proyecto)
-
 ## Descripción del proyecto
 
 ### Enunciado del problema
