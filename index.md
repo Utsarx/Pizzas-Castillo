@@ -82,7 +82,7 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 ### Diagramas de casos de uso
 
 ### Diagramas de actividades
-[Diagrama Actividades](./DiagramaActividades.png)
+[Diagrama Actividades](./actividades.jpg)
 
 ## Modelo de Dominio
 
