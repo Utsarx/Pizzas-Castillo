@@ -1,3 +1,5 @@
+(Aquí va el título del proyecto)
+
 ## Descripción del proyecto
 
 ### Enunciado del problema
@@ -19,16 +21,18 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 
 ## Definición de StakeHolders
 
+### Cliente
+
+
+### Usuarios
+
+
 ### Equipo de desarrollo
-* Díaz Martínez Germán Uziel - Analista - Programador
 * Maguey Rentería Alejandro - Project Manager - Programador
+* Díaz Martínez Germán Uziel - Analista - Programador
 * Ramírez Gibbs Jorge Alberto - Analista - Programador
 * Rangel Bautista Luis Gerardo - Diseñador - Programador
 * Reyes Jiménez Evelyn Gabriela - Arquitecto de software - Tester
-
-### Cliente
-
-### Usuarios
 
 ## Reglas del negocio
 
@@ -39,7 +43,6 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 [División de pizza](./br3.md)
 
 [Pedido mínimo](./br4.md)
-
 
 ## Documento de especificación de requerimientos
 
