@@ -92,6 +92,7 @@ El sistema permitirá al cliente realizar pedidos de pizzas desde un navegador w
 ## Marco de Desarrollo
 
 ### Descripción de las etapas de desarrollo
+[Etapas de Desarrollo](./etapasDesarrollo.md)
 
 ### Número y duración de iteraciones
 
