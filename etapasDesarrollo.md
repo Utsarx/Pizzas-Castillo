@@ -11,7 +11,10 @@ Entregar una especificación de requisitos de software correcta y completa. Los 
   
 
 ### Diseño y análisis
+Fase fundamental para que la estrategia informática encaje dentro de las metas de la empresa. El analista se involucra en la identificación de los problemas, de las oportunidades y de los objetivos. Esta fase es crucial para el éxito del resto del proyecto, pues nadie estará dispuesto a desperdiciar su tiempo dedicandolo al problema equivocado.
 
+ * El analista debe analizar las necesidades propias del sistema. 
+ * El analista de sistemas usa la información que recolectó y elabora el diseño del sistema de información (pantallas).
 
 ### Codificación y pruebas del desarrollador
 
