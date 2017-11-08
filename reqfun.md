@@ -31,3 +31,9 @@
 15.- Los administradores podrán borrar categorías.
 
 16.- Los usuarios con rol de administrador podrán agregar nuevos productos al sistema ingresando su nombre, imagen, precio, categoría, descripción e ingredientes(sólo en caso de que el producto sea una pizza).
+
+17.- Los administradores tendrán la capacidad de editar los productos creados.
+
+18.- Los productos podrán ser borrados por un administrador.
+
+19.- El sistema permitirá a los administradores crear paquetes agregando un conjunto de productos creados previamente, asignando un nombre y un precio.
