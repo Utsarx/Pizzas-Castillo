@@ -37,3 +37,4 @@
 18.- Los productos podrán ser borrados por un administrador.
 
 19.- El sistema permitirá a los administradores crear paquetes agregando un conjunto de productos creados previamente, asignando un nombre y un precio.
+
