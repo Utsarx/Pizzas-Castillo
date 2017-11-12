@@ -6,7 +6,7 @@
 
 3.- El sistema permitirá al cliente modificar su información de contacto, su correo y contraseña.
 
-4.- El cliente podrá acceder al sistema y ordenar una pizza sin necesidad de estar registrado.
+4.- El cliente podrá usar el sistema y ordenar una pizza sin necesidad de estar registrado.
 
 5.- El sistema le permitirá al cliente escoger como quiere recoger su orden(en tienda o a domicilio).
 
@@ -38,3 +38,8 @@
 
 19.- El sistema permitirá a los administradores crear paquetes agregando un conjunto de productos creados previamente, asignando un nombre y un precio.
 
+20.- Los administradorés podrán modificar los paquetes creados.
+
+21.- Los paquetes podrán ser eliminados por un administrador.
+
+22.- Los clientes pueden realizar un pedido a través del sistema 
